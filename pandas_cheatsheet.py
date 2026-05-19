@@ -2,7 +2,6 @@
 # PANDAS CHEATSHEET — Shruti Rajani
 # ============================================
 # Personal reference built while learning data analytics
-# Use this as a reference for every future project
 
 
 # ============================================
